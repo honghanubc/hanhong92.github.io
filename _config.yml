@@ -113,18 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hh0927@tsinghua.edu.cn"
-    - label: "ORCID"
-      icon: "fas fa-fw fa-link"
-      url: "https://orcid.org/0000-0002-1381-2804"
     - label: "ArXiv"
       icon: "fas fa-fw fa-archive"
-      url: "http://arxiv.org/a/zhu_z_4"
-    - label: "500px"
-      icon: "fab fa-fw fa-500px"
-      url: "https://500px.com/p/zfzhu?view=photos"
-    #- label: "500px"
-     # icon: "fab fa-fw fa-500px"
-      # url: "500px.com/zfzhu"
+      url: " http://arxiv.org/a/hong_h_1"
 
 # Site Footer
 #footer:
