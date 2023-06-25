@@ -116,6 +116,7 @@ author:
     - label: "ArXiv"
       icon: "fas fa-fw fa-archive"
       url: " http://arxiv.org/a/hong_h_1"
+    - label: "Updated"
 
 # Site Footer
 #footer:
