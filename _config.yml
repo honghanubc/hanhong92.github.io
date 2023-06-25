@@ -16,12 +16,12 @@ minimal_mistakes_skin    :  "air"  #"dirt" #"default" # "air", "aqua", "contrast
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhifei Zhu"
+title                    : "Han Hong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Zhifei Zhu"
+name                     : "Han Hong"
 description              : #"hahahahahahahahahahahahah1111."
-url                      : "https://zhifeizhu92.github.io" # the base hostname & protocol for your site e.g. 
+url                      : "https://honghan92.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhifei Zhu"
-  avatar           :  "/assets/profilepic.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
+  name             : "Han Hong"
+  avatar           : # "/assets/profilepic.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
   bio              : "Postdoc at Yau Mathematical Sciences Center, Tsinghua University."
   location         : "Beijing, China"
   #email            :
@@ -112,7 +112,7 @@ author:
       url: "https://www.tsinghua.edu.cn/en/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:zhifeizhu92@tsinghua.edu.cn"
+      url: "mailto:hh0927@tsinghua.edu.cn"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-1381-2804"
