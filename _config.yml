@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Han Hong"
   avatar           : "/assets/han.jpeg" 
-  bio              : "Postdoc at Yau Mathematical Sciences Center, Tsinghua University."
+  bio              : "Postdoc at Yau Mathematical Sciences Center, Tsinghua University. Update:2023/06"
   location         : "Beijing, China"
-  Update           : "2023/06"
+
   links:
     - label: "Tsinghua University"
       icon: "fa fa-fw fa-university"
