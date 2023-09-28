@@ -103,16 +103,16 @@ analytics:
 author:
   name             : "Han Hong"
   avatar           : "/assets/han.jpeg" 
-  bio              : "Postdoc at Yau Mathematical Sciences Center, Tsinghua University. Update:2023/06"
+  bio              : "Lecturer at Beijing Jiaotong Unviersity. Update:2023/09"
   location         : "Beijing, China"
 
   links:
-    - label: "Tsinghua University"
+    - label: "BJTU"
       icon: "fa fa-fw fa-university"
       url: "https://www.tsinghua.edu.cn/en/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hh0927@tsinghua.edu.cn"
+      url: "mailto:honghan0927@gmail.com"
     - label: "ArXiv"
       icon: "fas fa-fw fa-archive"
       url: " http://arxiv.org/a/hong_h_1"
